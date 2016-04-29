@@ -8,6 +8,10 @@
   },
   "author": "",
   "license": "ISC",
+  "repository" :
+  { "type" : "git"
+  , "url" : "https://github.com/haybales/boiler.git"
+  },
   "devDependencies": {
     "browser-sync": "^2.12.5",
     "del": "^2.2.0",
